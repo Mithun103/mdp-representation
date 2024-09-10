@@ -51,6 +51,6 @@ The reward function is formulated to promote efficient water use practices and s
 
 
 ## RESULT:
-![image](https://github.com/user-attachments/assets/4d581d90-5acc-432b-83cb-a583c3d75d8e)
+Thus we successfully created Markov decision process (MDP) representation and implemented python to model the decision making process in a agriculture automatic irrigation system
 
 
